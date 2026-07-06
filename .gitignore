@@ -15,3 +15,6 @@ apps/web/out/
 apps/worker/dist/
 .worktrees/
 .claude/worktrees/
+
+# oh-my-claudecode local state
+.omc/
