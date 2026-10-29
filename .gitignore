@@ -18,3 +18,16 @@ apps/worker/dist/
 
 # oh-my-claudecode local state
 .omc/
+
+# >>> agent-runtime (FD12 v1) >>>
+.omc/
+.beads/
+.understand-anything/
+.agent/
+.agent-handoff/
+.playwright-mcp/
+.claude/settings.local.json
+.claude/worktrees/
+.claude/projects/
+.claude/scheduled_tasks.lock
+# <<< agent-runtime (FD12 v1) <<<
